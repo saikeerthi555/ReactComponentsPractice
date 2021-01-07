@@ -1,2 +1,2 @@
-# ReactComponentsPractice
+# React-StylingPractice
 Created with CodeSandbox
